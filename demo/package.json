@@ -1,0 +1,17 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "main": "bad.js",
+  "type": "module",
+  "scripts": {
+    "bad": "nodemon bad.js",
+    "good": "nodemon good.js"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  },
+  "dependencies": {
+    "@ampsy/env": "^0.0.7",
+    "express": "^5.2.1"
+  }
+}
