@@ -1,6 +1,6 @@
 {
   "name": "@ampsy/express-middleware",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "Middleware one-liners for express.",
   "homepage": "https://github.com/jonkofal/express-middleware#readme",
   "bugs": {
